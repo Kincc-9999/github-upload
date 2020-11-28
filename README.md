@@ -1,2 +1,3 @@
-This my first git push
-Today OKR:finish git study and learn front end
+*Python Study Note
+This my first git push\n
+Today OKR:finish git study and learn Front End
